@@ -15,8 +15,8 @@ To write a C program to count the number of digits.
 ```java
 /*
 Program to to count the number of digits in an integer
-Developed by: Dhineshkumar L
-RegisterNumber: 212224230066
+Developed by: Subash M
+RegisterNumber: 212224220109
 */
 
 import java.util.Scanner;
